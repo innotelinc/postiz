@@ -78,3 +78,12 @@ docker compose down && docker compose up -d
 Secrets live in `.env` (gitignored). The Docker Compose file uses `${VAR}` substitution to inject them.
 
 See `.env.example` for all available variables and the official [Postiz Configuration Reference](https://docs.postiz.com/configuration/reference) for full details.
+
+## Legal
+
+- **[Privacy Policy](legal/privacy/index.html)** — Served at https://psa.innotel.us/privacy
+- **[Terms of Service](legal/terms/index.html)** — Served at https://psa.innotel.us/terms
+- [Privacy Policy (Markdown)](PRIVACY_POLICY.md) — Source document
+- [Terms of Service (Markdown)](TERMS_OF_SERVICE.md) — Source document
+
+Legal pages are served directly by nginx (bypassing auth) via the custom `nginx.conf` mounted into the container.
