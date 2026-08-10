@@ -83,6 +83,7 @@ See `.env.example` for all available variables and the official [Postiz Configur
 
 - **[Privacy Policy](legal/privacy/index.html)** — Served at https://psa.innotel.us/privacy
 - **[Terms of Service](legal/terms/index.html)** — Served at https://psa.innotel.us/terms
+- **[Data Deletion](legal/data-deletion/index.html)** — Served at https://psa.innotel.us/data-deletion
 - [Privacy Policy (Markdown)](PRIVACY_POLICY.md) — Source document
 - [Terms of Service (Markdown)](TERMS_OF_SERVICE.md) — Source document
 
